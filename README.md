@@ -38,7 +38,7 @@ Here, we have displayed top 5 topics from our text. To visualize top topics, we 
 
 ![Alt text](output/topic.png)
 
-[2] Semantic_search_using_txtai.ipynb
+## [2] Semantic_search_using_txtai.ipynb
 
 txtai is an open-source Python library for AI-powered natural language processing (NLP) tasks, such as text classification, question-answering, and text similarity analysis. It uses state-of-the-art machine learning algorithms and pre-trained models to enable developers to build powerful NLP applications quickly and easily.
 
