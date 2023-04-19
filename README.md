@@ -38,5 +38,10 @@ Here, we have displayed top 5 topics from our text. To visualize top topics, we 
 
 ![Alt text](output/topic.png)
 
+[2] Semantic_search_using_txtai.ipynb
+
+txtai is an open-source Python library for AI-powered natural language processing (NLP) tasks, such as text classification, question-answering, and text similarity analysis. It uses state-of-the-art machine learning algorithms and pre-trained models to enable developers to build powerful NLP applications quickly and easily.
+
+txtai is built on top of Hugging Face's transformers library and leverages its pre-trained models to provide high-quality NLP capabilities. It also includes several unique features, such as an indexing engine that allows for fast and accurate searching of large text datasets, as well as a built-in data augmentation tool that can be used to generate new training data for machine learning models.
 
 
